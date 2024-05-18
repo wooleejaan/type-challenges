@@ -1,3 +1,4 @@
-# Type Challenges
+### TypeScript Type Challenges
 
-TypeScript Type Challenges
+[DefaultGenericArguments](/DefaultGenericArguments/)<br>
+[GenericTypeArguments](/GenericTypeArguments/)<br>
