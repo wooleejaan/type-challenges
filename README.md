@@ -8,3 +8,4 @@ with [typehero](https://typehero.dev/)
 [IndexSignature](/IndexSignatures/)<br>
 [IndexedTypes](/IndexedTypes/)<br>
 [LiteralTypes](/LiteralTypes/)<br>
+[MappedObjectTypes](/MappedObjectTypes/)<br>
