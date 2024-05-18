@@ -6,3 +6,4 @@ with [typehero](https://typehero.dev/)
 [GenericTypeArguments](/GenericTypeArguments/)<br>
 [GenericTypeConstraints](/GenericTypeConstraints/)<br>
 [IndexSignature](/IndexSignatures/)<br>
+[IndexedTypes](/IndexedTypes/)<br>
