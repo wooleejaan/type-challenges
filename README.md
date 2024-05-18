@@ -7,3 +7,4 @@ with [typehero](https://typehero.dev/)
 [GenericTypeConstraints](/GenericTypeConstraints/)<br>
 [IndexSignature](/IndexSignatures/)<br>
 [IndexedTypes](/IndexedTypes/)<br>
+[LiteralTypes](/LiteralTypes/)<br>
