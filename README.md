@@ -1,6 +1,6 @@
 ### TypeScript Type Challenges
 
-with [typehero](https://typehero.dev/)
+with [typehero](https://typehero.dev/), [tsch](https://github.com/type-challenges/type-challenges)
 
 [DefaultGenericArguments](/DefaultGenericArguments/)<br>
 [GenericTypeArguments](/GenericTypeArguments/)<br>
