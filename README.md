@@ -9,3 +9,4 @@ with [typehero](https://typehero.dev/)
 [IndexedTypes](/IndexedTypes/)<br>
 [LiteralTypes](/LiteralTypes/)<br>
 [MappedObjectTypes](/MappedObjectTypes/)<br>
+[PrimitiveDataTypes](/PrimitiveDataTypes/)<br>
