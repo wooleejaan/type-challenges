@@ -11,3 +11,4 @@ with [typehero](https://typehero.dev/), [tsch](https://github.com/type-challenge
 [LiteralTypes](/LiteralTypes/)<br>
 [MappedObjectTypes](/MappedObjectTypes/)<br>
 [PrimitiveDataTypes](/PrimitiveDataTypes/)<br>
+[BasicInferType](/BasicInferType/)<br>
