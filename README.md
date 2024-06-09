@@ -2,6 +2,7 @@
 
 with [typehero](https://typehero.dev/), [tsch](https://github.com/type-challenges/type-challenges)
 
+[FlattedObject,Roll,ToIntersection](/FlattedObject,Roll,ToIntersection/)<br>
 [DefaultGenericArguments](/DefaultGenericArguments/)<br>
 [GenericTypeArguments](/GenericTypeArguments/)<br>
 [GenericTypeConstraints](/GenericTypeConstraints/)<br>
